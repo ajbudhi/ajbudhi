@@ -2,11 +2,9 @@
 
 ### Data Scientist
 
-- 🔭 I’m currently working on Fake News Classification
+- 🔭 I’m currently working on going back to basics with Hypothesis Testing, specifically Z-test
 - 🌱 I’m currently learning: __Data Engineering, Cloud Engineering(AWS)__
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+
+- 📫 How to reach me: __andreasbudhi24@gmail.com__
 - ⚡ Fun fact: 
--->
+--> I love going to the theaters alone
