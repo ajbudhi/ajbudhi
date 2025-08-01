@@ -7,4 +7,4 @@
 
 - 📫 How to reach me: __andreasbudhi24@gmail.com__
 - ⚡ Fun fact: 
---> I love going to the theaters alone
+--> I am training for a half-marathon race.
