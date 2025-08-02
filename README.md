@@ -20,3 +20,5 @@
 - 📫 How to reach me: __andreasbudhi24@gmail.com__
 - ⚡ Fun fact: 
 --> I am training for a half-marathon race.
+
+  ![](https://komarev.com/ghpvc/?username=ajbudhi&color=blueviolet&style=plastic&abbreviated=true)
