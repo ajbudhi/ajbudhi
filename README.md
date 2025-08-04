@@ -22,5 +22,3 @@
 --> I am training for a half-marathon race.
 
   ![](https://komarev.com/ghpvc/?username=ajbudhi&color=blueviolet&style=plastic&abbreviated=true)
-
-  ![Snake animation](https://github.com/ajbudhi/ajbudhi/blob/output/github-contribution-grid-snake.svg)
